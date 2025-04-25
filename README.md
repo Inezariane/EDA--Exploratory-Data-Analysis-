@@ -1,5 +1,5 @@
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 Welcome to the **Exploratory Data Analysis (EDA)** repo! 🚀  
 This repository contains notebooks, scripts, and visualizations used to explore and understand the dataset in-depth before building any models or drawing insights.
