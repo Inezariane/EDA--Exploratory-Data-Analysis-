@@ -29,6 +29,7 @@ This repository contains notebooks, scripts, and visualizations used to explore 
 - pandas, numpy
 - matplotlib, seaborn, plotly
 - Jupyter Notebook
+- React JS
 
 ---
 
@@ -56,11 +57,18 @@ git clone https://github.com/Inezariane/EDA--Exploratory-Data-Analysis-
 ```bash
 cd folder-name (EDA_Exploratory-Data-Analysis for example)
 ```
-
-3. Open the notebooks and start exploring  
+3. Start the backend server
 ```bash
-jupyter notebook
+cd weather-backend
+python app.py
 ```
+3. Start the frontend app.
+In a separate terminal, run the following command to access the frontend part.
+```bash
+cd weather-frontend
+npm start
+```
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
@@ -75,6 +83,5 @@ Stay tuned for more updates on the codes !!!!!!
 ## 📬 Contact
 
 Feel free to reach out if you have any questions or feedback:  
-**Your Name** – [inezabellaariane@gmail.com]  
+[inezabellaariane@gmail.com]  
 
----
