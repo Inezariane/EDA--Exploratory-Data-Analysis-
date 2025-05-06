@@ -50,12 +50,12 @@ Here’s what’s covered in the analysis:
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/Inezariane/EDA--Exploratory-Data-Analysis-
+https://github.com/Inezariane/Weather-Prediction-App.git
 ```
 
 2. Navigate to the folder  
 ```bash
-cd folder-name (EDA_Exploratory-Data-Analysis for example)
+cd folder-name (Weather-Prediction-App for example)
 ```
 3. Start the backend server
 ```bash
